@@ -7,7 +7,7 @@ Document similarity is a very needed task. it used to determine how close two do
 - ChatBot should be able to understand semantically similar queries from users and provide a uniform response.
 
 ## Dataset
-The dataset used is inspired by CNN/Daily Mail Data from the paper "Get To The Point: Summarization with Pointer-Generator Networks" and it is consists of articles and their summaries. So, the final dataset as mentioned in figure 1 consists of some articles, their summary and labeled by 1 and some articles, summaries of other articles, and labeled by 0 as they aren't similar. you can get the final dataset from here.
+The dataset used is inspired by CNN/Daily Mail Data from the paper "Get To The Point: Summarization with Pointer-Generator Networks" and it is consists of articles and their summaries. So, the final dataset as mentioned in figure 1 consists of some articles, their summary and labeled by 1 and some articles, summaries of other articles, and labeled by 0 as they aren't similar. you can get the final dataset from here: https://drive.google.com/file/u/4/d/1CUPi6nri5u21DbVYr0MfHSOVOLS2TlYs/view?usp=drive_open.
 
 ## Feature Engineering
 #### 1. Cosine Similarity
