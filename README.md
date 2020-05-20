@@ -13,7 +13,7 @@ The dataset used is inspired by CNN/Daily Mail Data from the paper "Get To The P
 #### 1. Cosine Similarity
 Cosine similarity is a measure of similarity between two non-zero vectors of an inner product space that measures the cosine of the angle between them.
 
-![Alt Text](https://imgur.com/a/K0aQ2Yi)
+![Alt Text](https://imgur.com/a/K0aQ2Yi.jpg)
 
 
 #### 2. Word Mover's Distance
